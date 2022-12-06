@@ -6,7 +6,7 @@
 
 ## Descrição do Projeto
 
-<p align="center">Esse é um projeto de jogo criado para disciplina SSC0511 - Organização e Arquitetura de Computadores, ministrado por Eduardo do Valle Simões no qual temos que desenvolver um jogo utilizando a linguagem Assembly.</p>
+<p align="center">Esse é um projeto de jogo criado para disciplina SSC0513 - Organização e Arquitetura de Computadores, ministrado por Eduardo do Valle Simões no qual temos que desenvolver um jogo utilizando a linguagem Assembly.</p>
 
 
 ## Como funciona
